@@ -1,0 +1,6 @@
+backend/.terraform.lock.hcl
+backend/terraform.tfstate
+backend/terraform.tfstate.backup
+backend/.terraform/providers/registry.terraform.io/hashicorp/google/4.27.0/darwin_arm64/terraform-provider-google_v4.27.0_x5
+backend/service/credentials.json
+backend/.terraform/providers/registry.terraform.io/hashicorp/google-beta/4.27.0/darwin_arm64/terraform-provider-google-beta_v4.27.0_x5
