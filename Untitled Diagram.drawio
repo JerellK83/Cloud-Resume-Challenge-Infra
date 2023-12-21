@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T09:01:20.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vdVqHSp9Srf1neiJQN06" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T09:19:19.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Y5Z1xL8QFE5MqCis-iqI" version="22.1.11" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1434" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -116,6 +116,12 @@
               <mxPoint x="230" y="495" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BTRo54htwc7nsr1ADR_A-1069" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="150" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BTRo54htwc7nsr1ADR_A-1070" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png" vertex="1" parent="1">
+          <mxGeometry x="670" y="690" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
